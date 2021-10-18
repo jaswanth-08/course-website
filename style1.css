@@ -1,0 +1,48 @@
+
+  body{
+      
+      background-color:white;
+      
+  }
+  div.main{
+      width: 500px;
+      margin: 100px auto 0px auto;
+  }
+  div.main1
+  {
+      
+      background-color:lightgray;
+      background-position: center;
+  }
+  h1{
+      
+      padding: 20px;
+      font-family: sans-serif;
+      background-color:rgba(0,0,0,0.3);
+  }
+  
+  div.register{
+      
+      width: 100%;
+      font-size: 15px;
+      border-radius: 10px;
+      border: 1px soid rgba(255,255,255,0.3);
+      box-shadow: 2px 2px 15px
+          rgba(0,0,0,0,.3);
+      color: #fff;
+      
+  }
+  
+  
+  
+  table{
+      font-family:'Times New Roman', Times, serif;
+      font-size: 18px;
+      font-style:unset;
+  }
+  
+  
+  label,span,h2{
+      text-shadow: 1px 1px 5px  
+          rgba(0,0,0,0.3);
+  }
